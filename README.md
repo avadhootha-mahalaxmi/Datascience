@@ -1,7 +1,8 @@
 # Datascience
 ### Project Title: Restaurant Rating Prediction in Zomato App
-##Dataset : https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+# Dataset : https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 ( Download dataset zamato.csv from kaggle from above link)
+
 *Objective:*
 Developed a machine learning model to predict restaurant ratings on the Zomato app based on various features such as cuisine type, location, cost for two, and user reviews.
 
@@ -39,4 +40,5 @@ Developed a machine learning model to predict restaurant ratings on the Zomato a
 
 *Outcome:*
 Successfully built and deployed a robust model with a high accuracy rate, significantly aiding in the enhancement of personalized restaurant recommendations on the Zomato app.
+sample output:
 ![Screenshot (19)](https://github.com/avadhootha-mahalaxmi/Datascience/assets/133796812/6bddd215-20aa-4d6b-b796-2fa89dc8d252)
